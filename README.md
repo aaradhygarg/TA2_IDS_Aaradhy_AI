@@ -68,7 +68,7 @@ Download:
 
 ## ▶️ Running the Script
 ```bash
-!python your_script.py
+!python TA2_AI_IDS.ipynb
 ```
 
 Outputs saved in `/content/out`.
