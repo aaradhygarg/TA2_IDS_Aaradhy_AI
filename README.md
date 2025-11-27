@@ -101,8 +101,3 @@ drive.mount('/content/drive')
 - More models (LightGBM, CatBoost)
 
 ---
-
-## 📘 License
-For academic & research use only.
-
----
