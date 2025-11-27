@@ -18,6 +18,7 @@ This project loads the NSL-KDD dataset (KDDTrain+ / KDDTest+), preprocesses it, 
 
 ## 📂 Project Structure
 /content/
+
 ├── KDDTrain+.txt  
 ├── KDDTest+.txt  
 ├── TA2_AI_IDS.ipynb  
