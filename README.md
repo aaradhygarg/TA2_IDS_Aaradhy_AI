@@ -20,7 +20,7 @@ This project loads the NSL-KDD dataset (KDDTrain+ / KDDTest+), preprocesses it, 
 /content/
 ├── KDDTrain+.txt  
 ├── KDDTest+.txt  
-├── your_script.py  
+├── TA2_AI_IDS.ipynb  
 └── out/  
     ├── model_logistic.joblib  
     ├── model_random_forest.joblib  
